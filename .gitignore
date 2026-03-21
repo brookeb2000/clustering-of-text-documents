@@ -5,3 +5,4 @@ matrix_summary_statistics.txt
 cosine_similarity_matrix.txt
 jaccard_distance_matrix.txt
 dbscan_jaccard_labels.txt
+kmeans_cosine_labels.txt
